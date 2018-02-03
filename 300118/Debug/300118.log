@@ -1,0 +1,4 @@
+﻿  1.cpp
+m:\programming\лабы\300118\1.cpp(204): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  300118.vcxproj -> M:\programming\лабы\300118\Debug\300118.exe
+  300118.vcxproj -> M:\programming\лабы\300118\Debug\300118.pdb (Partial PDB)
