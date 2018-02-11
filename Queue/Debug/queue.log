@@ -1,0 +1,5 @@
+﻿  1.cpp
+m:\programming\лабы\queue\queue\1.cpp(96): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+m:\programming\лабы\queue\queue\1.cpp(111): warning C4102: doALL: неиспользованная метка
+  queue.vcxproj -> M:\programming\лабы\queue\queue\Debug\queue.exe
+  queue.vcxproj -> M:\programming\лабы\queue\queue\Debug\queue.pdb (Full PDB)
